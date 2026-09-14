@@ -61,7 +61,9 @@ Each task is implemented in a separate Python file and demonstrates different pr
 
   
 
-    ## How to Run
+ 
+ 
+ ## How to Run
 
 * Download or clone the project.
 * Open the project folder in VS Code or Jupyter Notebook.
