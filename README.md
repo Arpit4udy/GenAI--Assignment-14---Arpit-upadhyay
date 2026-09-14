@@ -24,11 +24,11 @@ Each task is implemented in a separate Python file and demonstrates different pr
 
 ### PART 2 FEATURE ENCODING
  - [Task 3](task_3.ipynb)
-  - **Description:**  
+   - **Description:**  
     One Hot Encoding
     
  - [Task 4](task_4.ipynb)
-  - **Description:**  
+   - **Description:**  
    Column Transformer.   
     
 
